@@ -10,18 +10,15 @@ Quick tutorial:
 For the newbies:
 1. Extract contents somewhere, maybe desktop.
 2. Press start in windows and search for "cmd"
-3. Type:
-  "cd C:\Users\INSERTYOURUSERNAMEHERE\Desktop\DivCardFlip-master"
-4. Type:
-  "python datadl.py"
-5. Type:
-  "python main.py"
+3. Type: "cd C:\Users\INSERTYOURUSERNAMEHERE\Desktop\DivCardFlip-master"
+4. Type: "python datadl.py"
+5. Type: "python main.py"
 
 Be sure to have python 3.5+ installed!
 
 
 Here's a sample how it will look:
-
+```
 ----------------------------------------------------------------------------------------------------
 A Dab of Ink (2.0):
 Type: Unique
@@ -39,3 +36,4 @@ Chaos needed: 120.0
 Sell price: 132.0
 Card stack: 12
 ----------------------------------------------------------------------------------------------------
+```

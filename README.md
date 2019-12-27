@@ -6,6 +6,7 @@ Quick tutorial:
 2. Run main.py
 3. Flip some divcards!
 
+Forbidden.txt are cards that are forbbiden. Some div cards give for example unique "Axe" and the weights for each unique axe that can possible come from this card is unknown. Therefore we cannot determine how much profit we will get from flipping this card. It is possible to make a worst case scenario and consider every card giving you the worst unique Axe and go on from that, but that feature is not yet included.
 
 For the newbies:
 1. Extract contents somewhere, maybe desktop.
